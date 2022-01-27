@@ -1,5 +1,5 @@
 {
-  "name": "gateway",
+  "name": "users_service",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
